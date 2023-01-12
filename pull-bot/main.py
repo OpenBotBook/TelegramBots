@@ -34,7 +34,7 @@ if __name__ == '__main__':
     
 ################################
 #         Bot Details
-# TelegramBots/pull-bot 
+# TelegramBots/pull-bot/main.py 
 # Version: 1.0
 ################################
 #         Copy Right Details
