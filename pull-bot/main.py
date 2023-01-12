@@ -33,11 +33,11 @@ if __name__ == '__main__':
     main()
     
 ################################
-#         Bot Detials
+#         Bot Details
 # TelegramBots/pull-bot 
 # Version: 1.0
 ################################
-#         Copy Right Detials
+#         Copy Right Details
 # © OpenBotBook
 # https://github.com/OpenBotBook
 # Apache License
