@@ -37,7 +37,7 @@ if __name__ == '__main__':
 # TelegramBots/pull-bot/main.py 
 # Version: 1.0
 ################################
-#         Copy Right Details
+#         Copyright Details
 # © OpenBotBook
 # https://github.com/OpenBotBook
 # Apache License
