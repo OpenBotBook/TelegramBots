@@ -1,4 +1,4 @@
-# Overvire about the bot:
+# Overview about the bot:
 
 This code creates a bot that listens for the command "/create_event" and creates an event with the name and time provided. Users can then select if they are going or not going to the event and the bot will reply with their selection.
 
